@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/linkedlist.py.iml" filepath="$PROJECT_DIR$/.idea/linkedlist.py.iml" />
+      <module fileurl="file://$USER_HOME$/attendancesystem/prime.py/.idea/prime.py.iml" filepath="$USER_HOME$/attendancesystem/prime.py/.idea/prime.py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../psql.py/.idea/psql.py.iml" filepath="$PROJECT_DIR$/../psql.py/.idea/psql.py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../queue/.idea/queue.iml" filepath="$PROJECT_DIR$/../queue/.idea/queue.iml" />
+    </modules>
+  </component>
+</project>
